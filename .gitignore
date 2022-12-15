@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+.git/
+.idea/
+bin/
+lib/
+crudpractice/
+venv/
+main.py
+pyvenv.cfg
